@@ -90,6 +90,7 @@
 
 ## 设计模式
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
+* [Observable-Swift](https://github.com/slazyk/Observable-Swift) - 由于非NSObject没有通过KVC实现，所以无法对属性进行KVO。这个库用观察属性，泛型，闭包实现了一套对Swift类型进行观察的机制。
 
 ## 算法和数据结构
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
