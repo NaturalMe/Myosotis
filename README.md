@@ -20,7 +20,9 @@
    		- [音频 Audio](#音频)
 	- [网络 Networking](#网络)
 	- [解析 Parsing](#解析)
+	- [资源 Resources](#资源)
    	- [用户界面 UI](#用户界面)
+   		- [警告视图 Alert View](#警告视图)
     	- [键盘 Keyboard](#键盘)
     	- [分段控制 Segmented Control](#分段控制)
   		- [开关 Switch](#开关)
@@ -65,8 +67,14 @@
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) - 更好的方式应对Swift中的JSON解析。
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Mac应用，把SwiftyJSON解析结果JSON对象的object转为NSDictory后，用JSONExport自动生成模型文件(Swift模型推荐使用Struct)。
 
+###资源
+* [R.swift](https://github.com/mac-cain13/R.swift) - 自动生成Images，Custom fonts，Resource files，Colors，Localized strings，Storyboards，Segues，Nibs，Reusable cells对应的 enum 或 struct 文件。
+
 ###用户界面
 * [Material](https://github.com/CosmicMind/Material) - 动画和图形框架，使开发人员能够轻松地创建漂亮的应用程序。
+
+####警告视图
+* [PMAlertController](https://github.com/Codeido/PMAlertController) - 漂亮的警告视图，支持自定义标题，图片（可选），字体，颜色，尺寸等。
 
 ####键盘
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无需代码，无需设置，解决UITextField、UITextView键盘覆盖界面的问题。
