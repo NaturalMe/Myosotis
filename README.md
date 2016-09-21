@@ -91,10 +91,7 @@
 ##依赖/包管理工具
 * [Cocoapods](https://cocoapods.org/) - Objective-C的项目依赖管工具。它有成千上万的库，支持搜索。
 * [Carthage](https://github.com/Carthage/Carthage) - 去中心化管理工具。
-* [Alcatraz](http://alcatraz.io/) - Xcode插件管理工具。
 
-##Xcode插件
-* [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) - 帮助你编写文档注释，支持OC、Swift。
 
 ## 设计模式
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
