@@ -60,6 +60,7 @@
 
 ###网络
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 可链接的请求/响应方式；URL / JSON/ plist中参数编码；上传文件/数据/流/多部分表单数据；下载使用申请或恢复数据；与NSURL证书认证；HTTP响应验证TLS证书和公钥钢钉；关闭进度和NSProgress；卷曲调试输出；全面的单元测试覆盖率；完整的文档。
+* [Just](https://github.com/JustHTTP/Just)
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 用Swift语言的闭包特性重写苹果的Reachability，检查网络连接状态。
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - 网络图片异步加载，多层高速缓存，可取消，支持UIImageView\NSImage\UIButton\GIF。
 
