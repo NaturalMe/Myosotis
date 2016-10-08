@@ -26,8 +26,7 @@
     	- [键盘 Keyboard](#键盘)
     	- [分段控制 Segmented Control](#分段控制)
   		- [开关 Switch](#开关)
-- [依赖、包管理工具](#依赖、包管理工具)
-- [Xcode插件](#Xcode插件)
+- [依赖和包管理工具](#依赖和包管理工具)
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
 - [科学上网](#科学上网)
@@ -89,7 +88,7 @@
 打开开关时绘制父视图。
 
 
-##依赖、包管理工具
+##依赖和包管理工具
 * [Cocoapods](https://cocoapods.org/) - Objective-C的项目依赖管工具。它有成千上万的库，支持搜索。
 * [Carthage](https://github.com/Carthage/Carthage) - 去中心化管理工具。
 * [SwiftPackageManager](https://github.com/apple/swift-package-manager) - 苹果出品的Swift包管理工具。
