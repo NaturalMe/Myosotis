@@ -26,7 +26,7 @@
     	- [键盘 Keyboard](#键盘)
     	- [分段控制 Segmented Control](#分段控制)
   		- [开关 Switch](#开关)
-- [依赖/包管理工具](#依赖/包管理工具)
+- [依赖、包管理工具](#依赖、包管理工具)
 - [Xcode插件](#Xcode插件)
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
@@ -89,20 +89,20 @@
 打开开关时绘制父视图。
 
 
-##依赖/包管理工具
+##依赖、包管理工具
 * [Cocoapods](https://cocoapods.org/) - Objective-C的项目依赖管工具。它有成千上万的库，支持搜索。
 * [Carthage](https://github.com/Carthage/Carthage) - 去中心化管理工具。
 * [SwiftPackageManager](https://github.com/apple/swift-package-manager) - 苹果出品的Swift包管理工具。
 
-## 设计模式
+##设计模式
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 * [Observable-Swift](https://github.com/slazyk/Observable-Swift) - 由于非NSObject没有通过KVC实现，所以无法对属性进行KVO。这个库用观察属性，泛型，闭包实现了一套对Swift类型进行观察的机制。
 
-## 算法和数据结构
+##算法和数据结构
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 
 ##科学上网
 * [shadowsocks](https://shadowsocks.com/) - 支持OS X, Windows, Linux, iOS, Android, OpenWRT 路由器等, $15.95一年。
 
-## 其他精选清单
+##其他精选清单
 * [awesomeios](http://awesomeios.com/) - 非常好的iOS的框架，库，教程，Xcode的插件，组件以及更多的精选名单。如框架，组件测试和其他开源项目，免费和付费服务。
