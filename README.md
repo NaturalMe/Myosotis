@@ -60,7 +60,7 @@
 
 ###网络
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 可链接的请求/响应方式；URL / JSON/ plist中参数编码；上传文件/数据/流/多部分表单数据；下载使用申请或恢复数据；与NSURL证书认证；HTTP响应验证TLS证书和公钥钢钉；关闭进度和NSProgress；卷曲调试输出；全面的单元测试覆盖率；完整的文档。
-* [Just](https://github.com/JustHTTP/Just)
+* [Just](https://github.com/JustHTTP/Just) - 网址查询；自定义页眉；表单/body；重定向控制；多文件，表单值一起上传；基本/摘要式身份验证；cookie；超时；同步/异步请求；上传/下载进度的异步请求跟踪；链接标题；友好访问的结果；
 * [Reachability.swift](https://github.com/ashleymills/Reachability.swift) - 用Swift语言的闭包特性重写苹果的Reachability，检查网络连接状态。
 * [Kingfisher](https://github.com/onevcat/Kingfisher) - 网络图片异步加载，多层高速缓存，可取消，支持UIImageView\NSImage\UIButton\GIF。
 
@@ -92,7 +92,7 @@
 ##依赖/包管理工具
 * [Cocoapods](https://cocoapods.org/) - Objective-C的项目依赖管工具。它有成千上万的库，支持搜索。
 * [Carthage](https://github.com/Carthage/Carthage) - 去中心化管理工具。
-
+* [SwiftPackageManager](https://github.com/apple/swift-package-manager) - 苹果出品的Swift包管理工具。
 
 ## 设计模式
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
