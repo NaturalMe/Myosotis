@@ -23,9 +23,10 @@
 	- [资源 Resources](#资源)
    	- [用户界面 UI](#用户界面)
    		- [警告视图 Alert View](#警告视图)
-    	- [键盘 Keyboard](#键盘)
-    	- [分段控制 Segmented Control](#分段控制)
+    		- [键盘 Keyboard](#键盘)
+    		- [分段控制 Segmented Control](#分段控制)
   		- [开关 Switch](#开关)
+		- [表格视图 Table View](#表格视图)
 - [依赖和包管理工具](#依赖和包管理工具)
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
@@ -84,9 +85,10 @@
 
 ####开关
 * [paper-switch](https://github.com/Ramotion/paper-switch)
-[AnimatedSwitch](https://github.com/alsedi/AnimatedSwitch)
-打开开关时绘制父视图。
+[AnimatedSwitch](https://github.com/alsedi/AnimatedSwitch) - 打开开关时绘制父视图。
 
+####表格视图
+* [FoldingCell](https://github.com/Ramotion/folding-cell) - 可以折叠、展开单元格的表格。
 
 ##依赖和包管理工具
 * [Cocoapods](https://cocoapods.org/) - Objective-C的项目依赖管工具。它有成千上万的库，支持搜索。
