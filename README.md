@@ -126,7 +126,7 @@
 * [GIMP](http://www.gimp.org) - 跨平台的图像编辑器，可用于GNU / Linux，OS X，Windows和更多操作系统。它是免费软件，您可以更改其源代码并分发您的更改。还有很多自定义选项和第三方插件。
 
 ##管理苹果设备
-* [Apple Configurator] - 管理苹果设备(iPad, iPhone, iMac, Mac etc.)配置文件的工具。请在 Mac App Store 搜索下载。
+* Apple Configurator - 管理苹果设备(iPad, iPhone, iMac, Mac etc.)配置文件的工具。请在 Mac App Store 搜索下载。
 
 ##其他精选清单
 * [awesomeios](http://awesomeios.com/) - 非常好的iOS的框架，库，教程，Xcode的插件，组件以及更多的精选名单。如框架，组件测试和其他开源项目，免费和付费服务。
