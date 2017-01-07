@@ -35,6 +35,7 @@
 - [文档查看](#文档查看)
 - [文本编辑器](#文本编辑器)
 - [图片编辑器](#图片编辑器)
+- [命令行工具](#命令行工具)
 - [管理苹果设备](#管理苹果设备)
 - [其他精选清单](#其他精选清单)
 
@@ -124,6 +125,11 @@
 
 ##图片编辑器
 * [GIMP](http://www.gimp.org) - 跨平台的图像编辑器，可用于GNU / Linux，OS X，Windows和更多操作系统。它是免费软件，您可以更改其源代码并分发您的更改。还有很多自定义选项和第三方插件。
+
+##命令行工具
+* [curl](https://curl.haxx.se/) - 利用URL语法在命令行方式下工作的开源文件传输工具。
+![在开发者工具中拷贝出cURL命令](https://github.com/NaturalMe/Myosotis/blob/master/Copy%20as%20cURL.png)
+在开发者工具中拷贝出cURL命令，可以发送给别人或技术支持，运行命令即可快速重现问题。
 
 ##管理苹果设备
 * Apple Configurator - 管理苹果设备(iPad, iPhone, iMac, Mac etc.)配置文件的工具。请在 Mac App Store 搜索下载。
