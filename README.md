@@ -129,6 +129,7 @@
 ##命令行工具
 * [curl](https://curl.haxx.se/) - 利用URL语法在命令行方式下工作的开源文件传输工具。
 ![在开发者工具中拷贝出cURL命令](https://github.com/NaturalMe/Myosotis/blob/master/Copy%20as%20cURL.png)
+
 在开发者工具中拷贝出cURL命令，可以发送给别人或技术支持，运行命令即可快速重现问题。
 
 ##管理苹果设备
