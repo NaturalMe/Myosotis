@@ -18,15 +18,20 @@
 		- [相机 Camera](#相机)
 	- [媒体 Media](#媒体)
    		- [音频 Audio](#音频)
+   		- [视频 Video](#视频)
 	- [网络 Networking](#网络)
 	- [解析 Parsing](#解析)
 	- [资源 Resources](#资源)
    	- [用户界面 UI](#用户界面)
    		- [警告视图 Alert View](#警告视图)
-    		- [键盘 Keyboard](#键盘)
-    		- [分段控制 Segmented Control](#分段控制)
+   		- [下拉菜单 Drop Down](#下拉菜单)
+    	- [键盘 Keyboard](#键盘)
+    	- [分段控制 Segmented Control](#分段控制)
+    	- [侧边栏 Slide Menu](#侧边栏)
   		- [开关 Switch](#开关)
 		- [表格视图 Table View](#表格视图)
+		- [文本视图 TextV iew](#文本视图)
+		- [转场 Transition](#转场)
 - [依赖和包管理工具](#依赖和包管理工具)
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
@@ -61,8 +66,11 @@
 
 ###媒体
 
-###音频
+####音频
 * [AudioKit](http://audiokit.io/) - 强大的音频合成，处理和分析，平滑的学习曲线。
+
+####视频
+* [ijkplayer](https://github.com/Bilibili/ijkplayer) - Bilibili出品的视频直播库。
 
 ###网络
 * [Alamofire](https://github.com/Alamofire/Alamofire) - 可链接的请求/响应方式；URL / JSON/ plist中参数编码；上传文件/数据/流/多部分表单数据；下载使用申请或恢复数据；与NSURL证书认证；HTTP响应验证TLS证书和公钥钢钉；关闭进度和NSProgress；卷曲调试输出；全面的单元测试覆盖率；完整的文档。
@@ -83,11 +91,17 @@
 ####警告视图
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - 漂亮的警告视图，支持自定义标题，图片（可选），字体，颜色，尺寸等。
 
+####下拉菜单
+* [DropDown](https://github.com/AssistoLab/DropDown) - 漂亮的下拉菜单。
+
 ####键盘
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无需代码，无需设置，解决UITextField、UITextView键盘覆盖界面的问题。
 
 ####分段控制
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - 支持滑动，可自定义文字颜色，背景颜色，圆角等属性。
+
+####侧边栏
+* [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) - 高度可定制的侧边栏。
 
 ####开关
 * [paper-switch](https://github.com/Ramotion/paper-switch)
@@ -95,6 +109,12 @@
 
 ####表格视图
 * [FoldingCell](https://github.com/Ramotion/folding-cell) - 可以折叠、展开单元格的表格。
+
+####文本视图
+* [NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) - 自动调整高度的文本视图。
+
+####转场
+* [Hero](https://github.com/lkzhao/Hero) - 优雅的视图控制器转场库。
 
 ##依赖和包管理工具
 * [Cocoapods](https://cocoapods.org/) - Objective-C的项目依赖管工具。它有成千上万的库，支持搜索。
