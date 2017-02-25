@@ -24,10 +24,11 @@
 	- [资源 Resources](#资源)
    	- [用户界面 UI](#用户界面)
    		- [警告视图 Alert View](#警告视图)
+		- [配色 Color](#配色)
    		- [下拉菜单 Drop Down](#下拉菜单)
-    	- [键盘 Keyboard](#键盘)
-    	- [分段控制 Segmented Control](#分段控制)
-    	- [侧边栏 Slide Menu](#侧边栏)
+    		- [键盘 Keyboard](#键盘)
+    		- [分段控制 Segmented Control](#分段控制)
+    		- [侧边栏 Slide Menu](#侧边栏)
   		- [开关 Switch](#开关)
 		- [表格视图 Table View](#表格视图)
 		- [文本视图 TextV iew](#文本视图)
@@ -90,6 +91,9 @@
 
 ####警告视图
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - 漂亮的警告视图，支持自定义标题，图片（可选），字体，颜色，尺寸等。
+
+####配色
+* [Chameleon](https://github.com/ViccAlexander/Chameleon) - 轻松的修改RGB值，快速的找出正确的颜色组合，不用担心您的文本在各种背景颜色下是否可读。
 
 ####下拉菜单
 * [DropDown](https://github.com/AssistoLab/DropDown) - 漂亮的下拉菜单。
