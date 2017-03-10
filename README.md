@@ -22,6 +22,7 @@
 	- [网络 Networking](#网络)
 	- [解析 Parsing](#解析)
 	- [资源 Resources](#资源)
+	- [社交 Social](#社交)
    	- [用户界面 UI](#用户界面)
    		- [警告视图 Alert View](#警告视图)
 		- [配色 Color](#配色)
@@ -63,8 +64,8 @@
 ###硬件
 
 ####相机
-* [ImagePicker](https://github.com/hyperoslo/ImagePicker) - 集所有摄像头功能于一身，拍照时能同时选择图像，占用较小内存。
-
+* [ImagePicker](https://github.com/hyperoslo/ImagePicker) - 集所有摄像头功能于一身，拍照时能同时选择图像，占用较小内存。暂不建议使用该库做一张照片的选择。
+* [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - 包含自定义图像选择器和图像裁剪功能。
 ###媒体
 
 ####音频
@@ -86,6 +87,8 @@
 ###资源
 * [R.swift](https://github.com/mac-cain13/R.swift) - 自动生成Images，Custom fonts，Resource files，Colors，Localized strings，Storyboards，Segues，Nibs，Reusable cells对应的 enum 或 struct 文件。
 
+###社交
+* [MonkeyKing](https://github.com/nixzhu/MonkeyKing) - 帮助你完成中国社交应用的登陆、分享。
 ###用户界面
 * [Material](https://github.com/CosmicMind/Material) - 动画和图形框架，使开发人员能够轻松地创建漂亮的应用程序。
 
