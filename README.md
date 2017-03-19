@@ -25,11 +25,13 @@
 	- [社交 Social](#社交)
    	- [用户界面 UI](#用户界面)
    		- [警告视图 Alert View](#警告视图)
+   		- [按钮 Button](#按钮)
 		- [配色 Color](#配色)
    		- [下拉菜单 Drop Down](#下拉菜单)
-    		- [键盘 Keyboard](#键盘)
-    		- [分段控制 Segmented Control](#分段控制)
-    		- [侧边栏 Slide Menu](#侧边栏)
+   		- [图片 Image](#图片)
+    	- [键盘 Keyboard](#键盘)
+    	- [分段控制 Segmented Control](#分段控制)
+    	- [侧边栏 Slide Menu](#侧边栏)
   		- [开关 Switch](#开关)
 		- [表格视图 Table View](#表格视图)
 		- [文本视图 Text View](#文本视图)
@@ -43,6 +45,8 @@
 - [文本编辑器](#文本编辑器)
 - [图片编辑器](#图片编辑器)
 - [HTTP调试工具](#HTTP调试工具)
+- [终端](#终端)
+- [gitignore](#gitignore)
 - [管理苹果设备](#管理苹果设备)
 - [其他精选清单](#其他精选清单)
 
@@ -85,7 +89,7 @@
 * [JSONExport](https://github.com/Ahmed-Ali/JSONExport) - Mac应用，把SwiftyJSON解析结果JSON对象的object转为NSDictory后，用JSONExport自动生成模型文件(Swift模型推荐使用Struct)。
 
 ### 资源
-* [R.swift](https://github.com/mac-cain13/R.swift) - 自动生成Images，Custom fonts，Resource files，Colors，Localized strings，Storyboards，Segues，Nibs，Reusable cells对应的 enum 或 struct 文件。
+* [R.swift](https://github.com/mac-cain13/R.swift) - 自动生成 Images，Custom fonts，Resource files，Colors，Localized strings，Storyboards，Segues，Nibs，Reusable cells对应的 enum 或 struct 文件。
 
 ### 社交
 * [MonkeyKing](https://github.com/nixzhu/MonkeyKing) - 帮助你完成中国社交应用的登陆、分享。
@@ -96,11 +100,17 @@
 #### 警告视图
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - 漂亮的警告视图，支持自定义标题，图片（可选），字体，颜色，尺寸等。
 
+#### 按钮
+* [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - 可爱的动画效果按钮，收藏、喜欢、点赞、笑脸。
+
 #### 配色
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - 轻松的修改RGB值，快速的找出正确的颜色组合，不用担心您的文本在各种背景颜色下是否可读。
 
 #### 下拉菜单
 * [DropDown](https://github.com/AssistoLab/DropDown) - 漂亮的下拉菜单。
+
+#### 图片
+* [ImageHelper](https://github.com/melvitax/ImageHelper) - 扩展了 image 和 imageView，可以通过颜色，文字，截图等进行创建，轻松获取填充，剪裁，调整大小，设置特效等功能。
 
 #### 键盘
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无需代码，无需设置，解决UITextField、UITextView键盘覆盖界面的问题。
@@ -161,6 +171,14 @@
 在浏览器的开发者工具中拷贝出cURL命令，可以发送给别人或技术支持，运行命令即可快速重现问题。
 
 * [Postman](https://www.getpostman.com/) - 构建API请求的图形化工具，可以收藏请求，批量测试，共享收藏列表，创建不同环境（如开发环境、生产环境），导出为cURL命令，导出为多种编程语言代码。
+
+## 终端
+* [iTerm](https://www.iterm2.com/) - 如果你在终端上花费大量的时间，那么你会欣赏这个软件所有的小细节。 它是免费的软件，你可以找到Github的源代码。
+
+## gitignore
+
+* [https://www.gitignore.io/](https://www.gitignore.io/) - 用命令行的方式轻松创建 `.gitignore`, 你可以在Github上找到源码。
+* [gitignore](https://github.com/github/gitignore) - 这是GitHub的`.gitignore`文件模板集合。 Github官方出品，在Github.com上创建新的仓库和文件时，界面中可选择的`.gitignore`模板就是这个列表。
 
 ## 管理苹果设备
 * Apple Configurator - 管理苹果设备(iPad, iPhone, iMac, Mac etc.)配置文件的工具。请在 Mac App Store 搜索下载。
