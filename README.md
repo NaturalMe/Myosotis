@@ -46,6 +46,7 @@
 - [图片编辑器](#图片编辑器)
 - [HTTP调试工具](#HTTP调试工具)
 - [终端](#终端)
+- [邮件管理](#邮件管理)
 - [gitignore](#gitignore)
 - [管理苹果设备](#管理苹果设备)
 - [其他精选清单](#其他精选清单)
@@ -164,7 +165,7 @@
 ## 图片编辑器
 * [GIMP](http://www.gimp.org) - 跨平台的图像编辑器，可用于GNU / Linux，OS X，Windows和更多操作系统。它是免费软件，您可以更改其源代码并分发您的更改。还有很多自定义选项和第三方插件。
 
-## HTTP调试工具
+## HTTP 调试工具
 * [curl](https://curl.haxx.se/) - 利用URL语法在命令行方式下工作的开源文件传输工具。
 ![在浏览器的开发者工具中拷贝出cURL命令](https://github.com/NaturalMe/Myosotis/blob/master/Copy%20as%20cURL.png)
 
@@ -174,6 +175,9 @@
 
 ## 终端
 * [iTerm](https://www.iterm2.com/) - 如果你在终端上花费大量的时间，那么你会欣赏这个软件所有的小细节。 它是免费的软件，你可以找到Github的源代码。
+
+## 邮件管理
+* [spark](https://sparkmailapp.com/) - 智能收件箱。帮你快速查看重要内容，可以用自然语言搜索邮件，仅在重要邮件时通知，邮件可以与日立交互，用户体验满分。
 
 ## gitignore
 
