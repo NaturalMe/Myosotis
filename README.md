@@ -39,6 +39,7 @@
 - [依赖和包管理工具](#依赖和包管理工具)
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
+- [gitignore](#gitignore)
 - [科学上网](#科学上网)
 - [网络抓包](#网络抓包)
 - [文档查看](#文档查看)
@@ -47,7 +48,7 @@
 - [HTTP调试工具](#HTTP调试工具)
 - [终端](#终端)
 - [邮件管理](#邮件管理)
-- [gitignore](#gitignore)
+- [输入法](#输入法)
 - [管理苹果设备](#管理苹果设备)
 - [其他精选清单](#其他精选清单)
 
@@ -147,6 +148,11 @@
 ## 算法和数据结构
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 
+## gitignore
+
+* [https://www.gitignore.io/](https://www.gitignore.io/) - 用命令行的方式轻松创建 `.gitignore`, 你可以在Github上找到源码。
+* [gitignore](https://github.com/github/gitignore) - 这是GitHub的`.gitignore`文件模板集合。 Github官方出品，在Github.com上创建新的仓库和文件时，界面中可选择的`.gitignore`模板就是这个列表。
+
 ## 科学上网
 * [shadowsocks](https://shadowsocks.com/) - 支持OS X, Windows, Linux, iOS, Android, OpenWRT 路由器等, $15.95一年。
 * [Lantern](https://getlantern.org/) - 无限高速流量。
@@ -179,10 +185,8 @@
 ## 邮件管理
 * [spark](https://sparkmailapp.com/) - 智能收件箱。帮你快速查看重要内容，可以用自然语言搜索邮件，仅在重要邮件时通知，邮件可以与日立交互，用户体验满分。
 
-## gitignore
-
-* [https://www.gitignore.io/](https://www.gitignore.io/) - 用命令行的方式轻松创建 `.gitignore`, 你可以在Github上找到源码。
-* [gitignore](https://github.com/github/gitignore) - 这是GitHub的`.gitignore`文件模板集合。 Github官方出品，在Github.com上创建新的仓库和文件时，界面中可选择的`.gitignore`模板就是这个列表。
+## 输入法
+* [鼠鬚管](http://rime.im/) - 不止于拼音、注音、仓颉、速成、五笔、双拼、粤拼、吴语、中古汉语拼音、五笔画、Emoji、国际音标、宫保拼音…… 读《方案设计书》，亲手来创作，把输入法变成理想的模样。
 
 ## 管理苹果设备
 * Apple Configurator - 管理苹果设备(iPad, iPhone, iMac, Mac etc.)配置文件的工具。请在 Mac App Store 搜索下载。
