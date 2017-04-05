@@ -156,6 +156,7 @@
 ## 对比工具
 * [Beyond Compare](http://www.scootersoftware.com/download.php?zz=dl4) - 好用但是收费的对比工具。
 * fileMerge - Xcode自带的对比工具
+![](https://github.com/NaturalMe/Myosotis/blob/master/fileMerge.png)
 
 ## 科学上网
 * [shadowsocks](https://shadowsocks.com/) - 支持OS X, Windows, Linux, iOS, Android, OpenWRT 路由器等, $15.95一年。
