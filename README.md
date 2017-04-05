@@ -40,6 +40,7 @@
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
 - [gitignore](#gitignore)
+- [对比工具](#对比工具)
 - [科学上网](#科学上网)
 - [网络抓包](#网络抓包)
 - [文档查看](#文档查看)
@@ -149,9 +150,12 @@
 * [swift-algorithm-club](https://github.com/raywenderlich/swift-algorithm-club)
 
 ## gitignore
-
 * [https://www.gitignore.io/](https://www.gitignore.io/) - 用命令行的方式轻松创建 `.gitignore`, 你可以在Github上找到源码。
 * [gitignore](https://github.com/github/gitignore) - 这是GitHub的`.gitignore`文件模板集合。 Github官方出品，在Github.com上创建新的仓库和文件时，界面中可选择的`.gitignore`模板就是这个列表。
+
+## 对比工具
+* [Beyond Compare](http://www.scootersoftware.com/download.php?zz=dl4) - 好用但是收费的对比工具。
+* fileMerge - Xcode自带的对比工具
 
 ## 科学上网
 * [shadowsocks](https://shadowsocks.com/) - 支持OS X, Windows, Linux, iOS, Android, OpenWRT 路由器等, $15.95一年。
