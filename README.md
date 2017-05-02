@@ -26,10 +26,12 @@
    	- [用户界面 UI](#用户界面)
    		- [警告视图 Alert View](#警告视图)
    		- [按钮 Button](#按钮)
+   		- [集合视图 Collection View](#集合视图)
 		- [配色 Color](#配色)
    		- [下拉菜单 Drop Down](#下拉菜单)
    		- [图片 Image](#图片)
     	- [键盘 Keyboard](#键盘)
+    	- [文字标签 Label](#文字标签)
     	- [分段控制 Segmented Control](#分段控制)
     	- [侧边栏 Slide Menu](#侧边栏)
   		- [开关 Switch](#开关)
@@ -37,6 +39,8 @@
 		- [文本视图 Text View](#文本视图)
 		- [转场 Transition](#转场)
 - [依赖和包管理工具](#依赖和包管理工具)
+- [UI测试](#UI测试)
+- [语法教程](#语法教程)
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
 - [gitignore](#gitignore)
@@ -99,15 +103,21 @@
 
 ### 用户界面
 * [Material](https://github.com/CosmicMind/Material) - 动画和图形框架，使开发人员能够轻松地创建漂亮的应用程序。
+* [tispr-card-stack](https://github.com/tispr/tispr-card-stack) - 卡片堆控件。
 
 #### 警告视图
 * [PMAlertController](https://github.com/Codeido/PMAlertController) - 漂亮的警告视图，支持自定义标题，图片（可选），字体，颜色，尺寸等。
 
 #### 按钮
 * [DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) - 可爱的动画效果按钮，收藏、喜欢、点赞、笑脸。
+* [LiquidFloatingActionButton](https://github.com/yoavlt/LiquidFloatingActionButton) - 浮动操作按钮。
+* [ZFRippleButton](https://github.com/zoonooz/ZFRippleButton) - 遵循谷歌设计的特效按钮，触摸感十足。
 
 #### 配色
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - 轻松的修改RGB值，快速的找出正确的颜色组合，不用担心您的文本在各种背景颜色下是否可读。
+
+#### 集合视图
+* [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App Store 风格的水平滚动视图。
 
 #### 下拉菜单
 * [DropDown](https://github.com/AssistoLab/DropDown) - 漂亮的下拉菜单。
@@ -117,6 +127,11 @@
 
 #### 键盘
 * [IQKeyboardManager](https://github.com/hackiftekhar/IQKeyboardManager) - 无需代码，无需设置，解决UITextField、UITextView键盘覆盖界面的问题。
+
+#### 文字标签
+* [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)支持标签(#),提到(@)和url(http://)的文字标签。
+* [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - 一个变形的文字控件，有多重变形效果。
+* [Splitflap](https://github.com/yannickl/Splitflap) - 像机场、火车站里翻转的时钟那样的文字。
 
 #### 分段控制
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - 支持滑动，可自定义文字颜色，背景颜色，圆角等属性。
@@ -141,6 +156,12 @@
 * [Cocoapods](https://cocoapods.org/) - Objective-C的项目依赖管工具。它有成千上万的库，支持搜索。
 * [Carthage](https://github.com/Carthage/Carthage) - 去中心化管理工具。
 * [SwiftPackageManager](https://github.com/apple/swift-package-manager) - 苹果出品的Swift包管理工具。
+
+## UI测试
+* [UI-Testing-Cheat-Sheet](https://github.com/joemasilotti/UI-Testing-Cheat-Sheet) - 包含很多 UI Testing 详细的例子。
+
+## 语法教程
+* [the-swift-programming-language-in-chinese](https://github.com/numbbbbb/the-swift-programming-language-in-chinese) - 中文版 Apple 官方 Swift 教程《The Swift Programming Language》。
 
 ## 设计模式
 * [Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
