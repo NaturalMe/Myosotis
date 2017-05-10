@@ -44,6 +44,7 @@
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
 - [gitignore](#gitignore)
+- [密码管理](#密码管理)
 - [对比工具](#对比工具)
 - [科学上网](#科学上网)
 - [网络抓包](#网络抓包)
@@ -54,6 +55,9 @@
 - [终端](#终端)
 - [邮件管理](#邮件管理)
 - [输入法](#输入法)
+- [解压缩](#解压缩)
+- [压缩](#压缩)
+- [文件传输](#文件传输)
 - [管理苹果设备](#管理苹果设备)
 - [其他精选清单](#其他精选清单)
 
@@ -174,6 +178,10 @@
 * [https://www.gitignore.io/](https://www.gitignore.io/) - 用命令行的方式轻松创建 `.gitignore`, 你可以在Github上找到源码。
 * [gitignore](https://github.com/github/gitignore) - 这是GitHub的`.gitignore`文件模板集合。 Github官方出品，在Github.com上创建新的仓库和文件时，界面中可选择的`.gitignore`模板就是这个列表。
 
+## 密码管理
+* [1Password](https://1password.com/) - 目前在 Mac 和 iOS 上享誉最棒的密码管理软件，Mac 和 iOS 均有中文，但 Windows 对不起，可能1Password 官网对 Windows 有仇（因为 Windows 版本旧且太丑，目前无中文语言界面）。目前已经改为订阅模式，一个月3 or 4美元。
+* [LastPass](https://www.lastpass.com/) - 目前跨平台做的软件最棒，可惜它采取密码保管有两种方式：上传服务端和本地端保管。我认为理想的安全应该是本地的，不是服务端，因为 Web 端具有被攻破的可能（已有新闻报道 LastPass 服务端被攻破），而且服务端根本没有必要保管的需要。费用可能没有1Pssword 这么负担不起，但年费仍然不轻，6x12=72大概（每月1美元，听说现在春节有优惠），都有中文语言但翻译看起来有点机械。
+
 ## 对比工具
 * [Beyond Compare](http://www.scootersoftware.com/download.php?zz=dl4) - 好用但是收费的对比工具。
 * fileMerge - Xcode自带的对比工具
@@ -213,6 +221,15 @@
 
 ## 输入法
 * [鼠鬚管](http://rime.im/) - 不止于拼音、注音、仓颉、速成、五笔、双拼、粤拼、吴语、中古汉语拼音、五笔画、Emoji、国际音标、宫保拼音…… 读《方案设计书》，亲手来创作，把输入法变成理想的模样。
+
+## 解压缩
+* [The Unarchiver](http://unarchiver.c3.cx/unarchiver) - 双击解压操作方便，免费，无广告，解压快，并且几乎不会出现乱码。
+
+## 压缩
+* [Keka](http://www.kekaosx.com/zh-cn/) - 该应用支持在创建压缩包时将 Mac OS X 在文件夹下自动生成的隐藏系统文件排除，且压缩包包含文件名编码信息，不会造成文件在 Windows 下解压缩时文件名乱码。
+
+## 文件传输
+* [Send Anywhere](https://send-anywhere.com/) - Send Anywhere 是一款极其强大的文件传输工具，无论是传输速度，还是支持的平台以及文件类型都达到了相当出色的水平。它的主界面只有两个按钮：「发送」和「接收」，点击发送之后选择需要发送的文件类型，然后选择相应的文件点击发送即会生成一组六位数字，在接收端点击「接收」输入这六位数字即可。操作起来简单直观。
 
 ## 管理苹果设备
 * Apple Configurator - 管理苹果设备(iPad, iPhone, iMac, Mac etc.)配置文件的工具。请在 Mac App Store 搜索下载。
