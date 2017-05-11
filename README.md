@@ -26,6 +26,7 @@
    	- [用户界面 UI](#用户界面)
    		- [警告视图 Alert View](#警告视图)
    		- [按钮 Button](#按钮)
+   		- [轮播 Carousel](#轮播)
    		- [集合视图 Collection View](#集合视图)
 		- [配色 Color](#配色)
    		- [下拉菜单 Drop Down](#下拉菜单)
@@ -44,6 +45,7 @@
 - [设计模式](#设计模式)
 - [算法和数据结构](#算法和数据结构)
 - [gitignore](#gitignore)
+- [部署](#部署)
 - [密码管理](#密码管理)
 - [对比工具](#对比工具)
 - [科学上网](#科学上网)
@@ -120,6 +122,9 @@
 #### 配色
 * [Chameleon](https://github.com/ViccAlexander/Chameleon) - 轻松的修改RGB值，快速的找出正确的颜色组合，不用担心您的文本在各种背景颜色下是否可读。
 
+#### 轮播
+* [LLCycleScrollView](https://github.com/LvJianfeng/LLCycleScrollView) - 支持纯图片、文本图片结合、横向滚动、纵向滚动、手势滑动、点击回调、图片数据的延时加载、占位图占位、系统UIPageControl位置设置，唯一补足是依赖了 Kingfisher 库。
+
 #### 集合视图
 * [AppStoreStyleHorizontalScrollView](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App Store 风格的水平滚动视图。
 
@@ -177,6 +182,9 @@
 ## gitignore
 * [https://www.gitignore.io/](https://www.gitignore.io/) - 用命令行的方式轻松创建 `.gitignore`, 你可以在Github上找到源码。
 * [gitignore](https://github.com/github/gitignore) - 这是GitHub的`.gitignore`文件模板集合。 Github官方出品，在Github.com上创建新的仓库和文件时，界面中可选择的`.gitignore`模板就是这个列表。
+
+## 部署
+* [fastlane](https://github.com/fastlane/fastlane) - 最简单的方法来自动构建和发布你的iOS和Android应用程序。解放双手神器，打包、上架等的繁琐操作将被自动化代替。
 
 ## 密码管理
 * [1Password](https://1password.com/) - 目前在 Mac 和 iOS 上享誉最棒的密码管理软件，Mac 和 iOS 均有中文，但 Windows 对不起，可能1Password 官网对 Windows 有仇（因为 Windows 版本旧且太丑，目前无中文语言界面）。目前已经改为订阅模式，一个月3 or 4美元。
