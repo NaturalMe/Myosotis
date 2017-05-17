@@ -16,6 +16,7 @@
 	- [数据库 Database](#数据库)
 	- [硬件 Hardware](#硬件)
 		- [相机 Camera](#相机)
+		- [定位 Location](#定位)
 	- [媒体 Media](#媒体)
    		- [音频 Audio](#音频)
    		- [视频 Video](#视频)
@@ -33,6 +34,7 @@
    		- [图片 Image](#图片)
     	- [键盘 Keyboard](#键盘)
     	- [文字标签 Label](#文字标签)
+    	- [权限 Permission](#权限)
     	- [分段控制 Segmented Control](#分段控制)
     	- [侧边栏 Slide Menu](#侧边栏)
   		- [开关 Switch](#开关)
@@ -83,6 +85,10 @@
 #### 相机
 * [ImagePicker](https://github.com/hyperoslo/ImagePicker) - 集所有摄像头功能于一身，拍照时能同时选择图像，占用较小内存。暂不建议使用该库做一张照片的选择。
 * [ALCameraViewController](https://github.com/AlexLittlejohn/ALCameraViewController) - 包含自定义图像选择器和图像裁剪功能。
+
+#### 定位
+* [SwiftLocation](https://github.com/malcommac/SwiftLocation) - 简单高效的位置管理器。
+
 ### 媒体
 
 #### 音频
@@ -141,6 +147,9 @@
 * [ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift)支持标签(#),提到(@)和url(http://)的文字标签。
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - 一个变形的文字控件，有多重变形效果。
 * [Splitflap](https://github.com/yannickl/Splitflap) - 像机场、火车站里翻转的时钟那样的文字。
+
+#### 权限
+* [RequestPermission](https://github.com/IvanVorobei/RequestPermission) - 可定制的权限管理的漂亮对话框。提高用户允许的几率。只需两行代码，容易定制。
 
 #### 分段控制
 * [BetterSegmentedControl](https://github.com/gmarm/BetterSegmentedControl) - 支持滑动，可自定义文字颜色，背景颜色，圆角等属性。
